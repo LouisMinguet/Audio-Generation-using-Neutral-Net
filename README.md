@@ -1,3 +1,3 @@
-# AudioGeneration_using_NeutralNet
+# Audio-Generation-using-Neutral-Net
 
 Audio Generation Using Neural Net
