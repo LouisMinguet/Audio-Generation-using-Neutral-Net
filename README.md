@@ -5,9 +5,15 @@ Audio Generation Using :
 * LSTM using Embedding
 * GAN
 
-Parameters used :
+LSTM parameters used :
 - Epoch : 70
 - Dropout : 0.5
 - Activation function : Relu (dense: 3)
 - Loss : Mae
 - Optimizer : Adam
+
+Embedded LSTM parameters :
+- 
+
+GAN parameters : 
+- 
