@@ -5,7 +5,7 @@ Audio Generation Using :
 * LSTM using Embedding
 * GAN
 
-Parameters :
+Parameters used :
 - Epoch : 70
 - Dropout : 0.5
 - Activation function : Relu (dense: 3)
