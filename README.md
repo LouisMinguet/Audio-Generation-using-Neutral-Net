@@ -5,8 +5,8 @@ Audio Generation Using :
 * LSTM using Embedding
 * GAN
 
-Activation function : Relu
-
-Loss : Mae
-
-Optimizer : Adam
+- Epoch : 70
+- Dropout : 0.5
+- Activation function : Relu (dense: 3)
+- Loss : Mae
+- Optimizer : Adam
