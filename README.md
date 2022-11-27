@@ -1,7 +1,6 @@
 # Audio-Generation-using-Neutral-Net
 
-Kaggle URL : https://www.kaggle.com/code/louisminguet/audio-generation-using-neural-net
-Copied from : https://www.kaggle.com/code/risiris/audio-generation-using-neural-net
+> Kaggle URL : https://www.kaggle.com/code/louisminguet/audio-generation-using-neural-net
 
 ## Audio Generation Using :
 * LSTM
