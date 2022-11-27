@@ -1,5 +1,6 @@
 # Audio-Generation-using-Neutral-Net
 
+For this project, I worked on Kaggler to execute and run my program: 
 > Kaggle URL : https://www.kaggle.com/code/louisminguet/audio-generation-using-neural-net
 
 ## Audio Generation Using :
