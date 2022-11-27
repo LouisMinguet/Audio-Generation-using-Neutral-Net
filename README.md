@@ -6,5 +6,7 @@ Audio Generation Using :
 * GAN
 
 Activation function : Relu
+
 Loss : Mae
+
 Optimizer : Adam
