@@ -33,10 +33,3 @@ With **GAN**, one obtains slightly **more harmonious results** than Embedded LST
 #### GAN : 
 - 128 notes
 - Epoch : 60
-
---  RESULTS FILES
-
-/test1 : Default parameters
-/test2 : Default parameters
-/test3 : LSTM changes : Epoch=200, Dropout=0.3, Optimizer=RMSProp | No changes on Embed LSTM & GAN
-/test4 : 
